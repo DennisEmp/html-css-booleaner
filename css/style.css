@@ -1,3 +1,20 @@
-#header-main {
-    text-align: start;
+
+/* pattern background superiore */
+bg-image {
+background-image: url(../img/pattern.png);
+background-position: bottom;
+background-repeat: repeat-x;
 }
+
+
+
+
+
+
+
+
+
+span {
+    background-color: yellow;
+}
+
